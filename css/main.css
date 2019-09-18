@@ -5,3 +5,13 @@
 .eng {
   font-family: "Noto Sans", sans-serif;
 }
+
+.btn-ghost {
+  background-color: transparent;
+  color: #0084a6;
+  border-color: #8bc9d9;
+}
+
+.btn-ghost:hover{
+  background-color: #8bc9d9;
+}
