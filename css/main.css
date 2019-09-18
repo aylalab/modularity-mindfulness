@@ -6,6 +6,10 @@
   font-family: "Noto Sans", sans-serif;
 }
 
+html {
+  color: #000;
+}
+
 .btn-ghost {
   background-color: transparent;
   color: #0084a6;
