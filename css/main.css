@@ -8,22 +8,32 @@
 
 html {
   color: #000;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .btn-ghost {
   background-color: transparent;
-  color: #0084a6;
-  border-color: #8bc9d9;
+  color: #005e76;
+  border-color: #0084a6;
 }
 
 .btn-ghost:hover {
   background-color: #8bc9d9;
+  color: #005e76;
+  border-color: #005e76;
 }
 
-@media only screen and (min-width: 60em) {
+.foot {
+  color: #5e5e5e;
+}
 
-  html {
-    font-family: "Noto Sans", sans-serif;
-  }
+.nav {
+  color: #005e76;
+  text-decoration: none;
+  border-bottom: #0084a6;
+}
 
+.nav:hover {
+  color: #005e76;
+  border-bottom: #005e76;
 }
