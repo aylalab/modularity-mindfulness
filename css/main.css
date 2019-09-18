@@ -28,13 +28,22 @@ html {
   color: #5e5e5e;
 }
 
+.footer {
+  border-top: 2px solid #e2e2e2;
+}
+
 .nav {
   color: #005e76;
   text-decoration: none;
-  border-bottom: #0084a6;
+  border-bottom: 2px solid #8bc9d9;
 }
 
 .nav:hover {
   color: #005e76;
-  border-bottom: #005e76;
+  border-bottom: 2px solid #0084a6;
+}
+
+.intro {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
 }
