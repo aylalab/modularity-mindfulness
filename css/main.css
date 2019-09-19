@@ -50,8 +50,14 @@ html {
 
 @media only screen and (min-width: 60em) {
 
-.header {
-
+.logo {
+  text-align: left;
 }
+
+.nav {
+  text-align: right;
+  padding-top: 2em;
+}
+
 
 }
