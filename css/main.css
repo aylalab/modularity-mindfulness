@@ -55,4 +55,8 @@ html {
     padding-top: 2em;
   }
 
+  .nav {
+    text-align: right;
+  }
+
 }
